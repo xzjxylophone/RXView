@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.name     = "RXView"
   s.version  = "0.1"
   s.license  = "MIT"
-  s.summary  = "RXView is a normal view”
+  s.summary  = "RXView is a normal view"
   s.homepage = "https://github.com/xzjxylophone/RXView"
   s.author   = { 'Rush.D.Xzj' => 'xzjxylophoe@gmail.com' }
   s.social_media_url = "http://weibo.com/xzjxylophone"
