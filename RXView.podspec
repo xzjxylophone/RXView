@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.source_files = 'RXView/*.{h,m}'
   s.frameworks = 'Foundation', 'UIKit'
   s.requires_arc = true
-  s.platform = :ios, ‘7.0’
+  s.platform = :ios, '7.0'
 end
 
 
